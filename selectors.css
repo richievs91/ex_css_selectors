@@ -1,0 +1,53 @@
+header {
+	border: 1px solid red;
+}
+
+#navlist li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+
+}
+
+#red {
+	color: red;
+}
+
+#blue {
+	color: blue;
+}
+
+.disabled {
+	color: grey;
+}
+
+li a {
+	color: purple;
+}
+
+#sister {
+	background: red;
+}
+
+#brother {
+	background: blue;
+}
+
+#child {
+	border: 1px solid black;
+	border-radius: 25px;
+}
+
+.promo {
+	font-style: bold;
+	color: gold;
+}
+
+#height {
+	height: 25px;
+}
+
+
+
+
+
